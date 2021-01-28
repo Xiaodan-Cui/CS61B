@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49f7ea48-3e11-4e8d-8f11-ab6e63fc5e1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eKEENAA6gYEM5rk5mn1rGqQRSV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BubbleGridTest.testBasic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="clab6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BubbleGridTest" />
+      <option name="METHOD_NAME" value="testBasic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BubbleGridTest.testBasic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49f7ea48-3e11-4e8d-8f11-ab6e63fc5e1f" name="Default Changelist" comment="" />
+      <created>1594061772033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594061772033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="123" width="973" height="494" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594155426935">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state x="135" y="123" width="973" height="494" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.694@0.23.1280.694" timestamp="1594155426935" />
+    <state width="1131" height="170" key="GridCell.Tab.0.bottom" timestamp="1594164113437">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="170" key="GridCell.Tab.0.bottom/0.23.1280.694@0.23.1280.694" timestamp="1594164113437" />
+    <state width="887" height="144" key="GridCell.Tab.0.bottom/0.23.1280.696@0.23.1280.696" timestamp="1594147388462" />
+    <state width="1131" height="170" key="GridCell.Tab.0.center" timestamp="1594164113436">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="170" key="GridCell.Tab.0.center/0.23.1280.694@0.23.1280.694" timestamp="1594164113436" />
+    <state width="887" height="144" key="GridCell.Tab.0.center/0.23.1280.696@0.23.1280.696" timestamp="1594147388461" />
+    <state width="1131" height="170" key="GridCell.Tab.0.left" timestamp="1594164113436">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="170" key="GridCell.Tab.0.left/0.23.1280.694@0.23.1280.694" timestamp="1594164113436" />
+    <state width="887" height="144" key="GridCell.Tab.0.left/0.23.1280.696@0.23.1280.696" timestamp="1594147388460" />
+    <state width="1131" height="170" key="GridCell.Tab.0.right" timestamp="1594164113437">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="170" key="GridCell.Tab.0.right/0.23.1280.694@0.23.1280.694" timestamp="1594164113437" />
+    <state width="887" height="144" key="GridCell.Tab.0.right/0.23.1280.696@0.23.1280.696" timestamp="1594147388462" />
+    <state width="1131" height="256" key="GridCell.Tab.1.bottom" timestamp="1594159423338">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="256" key="GridCell.Tab.1.bottom/0.23.1280.694@0.23.1280.694" timestamp="1594159423338" />
+    <state width="887" height="144" key="GridCell.Tab.1.bottom/0.23.1280.696@0.23.1280.696" timestamp="1594147388839" />
+    <state width="1131" height="256" key="GridCell.Tab.1.center" timestamp="1594159423337">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="256" key="GridCell.Tab.1.center/0.23.1280.694@0.23.1280.694" timestamp="1594159423337" />
+    <state width="887" height="144" key="GridCell.Tab.1.center/0.23.1280.696@0.23.1280.696" timestamp="1594147388837" />
+    <state width="1131" height="256" key="GridCell.Tab.1.left" timestamp="1594159423336">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="256" key="GridCell.Tab.1.left/0.23.1280.694@0.23.1280.694" timestamp="1594159423336" />
+    <state width="887" height="144" key="GridCell.Tab.1.left/0.23.1280.696@0.23.1280.696" timestamp="1594147388837" />
+    <state width="1131" height="256" key="GridCell.Tab.1.right" timestamp="1594159423337">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="256" key="GridCell.Tab.1.right/0.23.1280.694@0.23.1280.694" timestamp="1594159423337" />
+    <state width="887" height="144" key="GridCell.Tab.1.right/0.23.1280.696@0.23.1280.696" timestamp="1594147388838" />
+    <state width="1131" height="256" key="GridCell.Tab.2.bottom" timestamp="1594159423339">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="256" key="GridCell.Tab.2.bottom/0.23.1280.694@0.23.1280.694" timestamp="1594159423339" />
+    <state width="887" height="144" key="GridCell.Tab.2.bottom/0.23.1280.696@0.23.1280.696" timestamp="1594147388074" />
+    <state width="1131" height="256" key="GridCell.Tab.2.center" timestamp="1594159423338">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="256" key="GridCell.Tab.2.center/0.23.1280.694@0.23.1280.694" timestamp="1594159423338" />
+    <state width="887" height="144" key="GridCell.Tab.2.center/0.23.1280.696@0.23.1280.696" timestamp="1594147388073" />
+    <state width="1131" height="256" key="GridCell.Tab.2.left" timestamp="1594159423338">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="256" key="GridCell.Tab.2.left/0.23.1280.694@0.23.1280.694" timestamp="1594159423338" />
+    <state width="887" height="144" key="GridCell.Tab.2.left/0.23.1280.696@0.23.1280.696" timestamp="1594147388072" />
+    <state width="1131" height="256" key="GridCell.Tab.2.right" timestamp="1594159423338">
+      <screen x="0" y="23" width="1280" height="694" />
+    </state>
+    <state width="1131" height="256" key="GridCell.Tab.2.right/0.23.1280.694@0.23.1280.694" timestamp="1594159423338" />
+    <state width="887" height="144" key="GridCell.Tab.2.right/0.23.1280.696@0.23.1280.696" timestamp="1594147388074" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BubbleGrid.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
